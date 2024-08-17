@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7057713ed4662344be56175021dbca4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 0}
+  text: {fileID: 1428565360}
   car: {fileID: 1727362113}
   flg: {fileID: 159117166}
 --- !u!4 &16591506
@@ -769,3 +769,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetSpeed: 1000
+  sfx: {fileID: 0}
